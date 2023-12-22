@@ -16,6 +16,8 @@ TableII
 Foundation models were designed to be trained on large-scale datasets, i.e., with parameters over billions to hundreds of billions and were named for the first time recently [184].
 TableIII
 
+![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/timeline.jpg)
+
 ## Roadmaps of LSFMs for intelligent manufacturing applications
 TableIV
 
