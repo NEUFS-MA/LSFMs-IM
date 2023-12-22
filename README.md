@@ -12,7 +12,7 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 Overfitting refers to the phenomenon where a model excessively adapts to the training dataset during the training process, resulting in the model performing well on the training data but having poor generalization ability for new data. 
 TableII
 
-### Background for large scale doundation models
+### Background for large-scale doundation models
 Foundation models were designed to be trained on large-scale datasets, i.e., with parameters over billions to hundreds of billions and were named for the first time recently [184].
 TableIII
 
