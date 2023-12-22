@@ -8,8 +8,15 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 
 ![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/evolution.png)
 
-### PROGRESSES AND CHALLENGES OF DEEP LEARNING IN INTELLIGENT MANUFACTURING
+### Progresses and challenges of deep learning in intelligent manufacturing
 Overfitting refers to the phenomenon where a model excessively adapts to the training dataset during the training process, resulting in the model performing well on the training data but having poor generalization ability for new data. 
+TableII
 
-### BACKGROUND FOR LARGE SCALE FOUNDATION MODELS
+### Background for large scale doundation models
 Foundation models were designed to be trained on large-scale datasets, i.e., with parameters over billions to hundreds of billions and were named for the first time recently [184].
+TableIII
+
+## Roadmaps of LSFMs for intelligent manufacturing applications
+TableIV
+
+## Cases of application of LSFMs in intelligent manufacturing
