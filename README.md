@@ -4,6 +4,12 @@ A collection of papers and resources related to LSFMs in Intelligent Manufacturi
 The organization of papers refers to our survey ["Large Scale Foundation Models for Intelligent Manufacturing Applications: A Survey"](https://arxiv.org/abs/2312.06718)
 
 ## The evolution from deep learning to LSFMs
-The emergence of large scale foundational models(LSFMs) had triggered a wave in the field of artificial intelligence, shifting deep learning models from single-task, single-modal, limited data patterns to a paradigm encompassing diverse tasks, multimodal, and pre-training on massive datasets. 
+The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportunities to the field of intelligent manufacturing, shifting the paradigm from single-task, single-mode, limited data models based on deep learning to encompassing multiple tasks, multiple modes, and pre-training on large-scale datasets.
 
 ![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/evolution.png)
+
+### PROGRESSES AND CHALLENGES OF DEEP LEARNING IN INTELLIGENT MANUFACTURING
+Overfitting refers to the phenomenon where a model excessively adapts to the training dataset during the training process, resulting in the model performing well on the training data but having poor generalization ability for new data. 
+
+### BACKGROUND FOR LARGE SCALE FOUNDATION MODELS
+Foundation models were designed to be trained on large-scale datasets, i.e., with parameters over billions to hundreds of billions and were named for the first time recently [184].
