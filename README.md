@@ -10,7 +10,7 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 
 | No. | Title | Model | Application Areas | Category | Problems solved | Methodology | Link |
 |------|------|------|------|------|------|------|------|
-| 1 | LLMScenario: Large Language Model Driven Scenario Generation | LLM | Autonomous driving data scenario generation | R1C5 | R1C6 | R1C7 | R1C8 |
+| 1 | _LLMScenario: Large Language Model Driven Scenario Generation_ | LLM | Autonomous driving data scenario generation | autonomous vehicles | Existing methods cannot handle the interpretation and reasoning of the generation process well | Proposed LLMScenario, a novel LLM-driven scenario generation framework.| https://ieeexplore.ieee.org/abstract/document/10529537 |
 | 2 | R2C2 | R2C3 | R2C4 | R2C5 | R2C6 | R2C7 | R2C8 |
 | 3 | R3C2 | R3C3 | R3C4 | R3C5 | R3C6 | R3C7 | R3C8 |
 | 4 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 | R4C8 |
