@@ -3,22 +3,17 @@ A collection of papers and resources related to LSFMs in Intelligent Manufacturi
 
 The organization of papers refers to our survey ["Large Scale Foundation Models for Intelligent Manufacturing Applications: A Survey"](https://arxiv.org/abs/2312.06718)
 
-## The evolution from deep learning to LSFMs
 The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportunities to the field of intelligent manufacturing, shifting the paradigm from single-task, single-mode, limited data models based on deep learning to encompassing multiple tasks, multiple modes, and pre-training on large-scale datasets.
 
 ![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/evolution.png)
 
-### Progresses and challenges of deep learning in intelligent manufacturing
-Overfitting refers to the phenomenon where a model excessively adapts to the training dataset during the training process, resulting in the model performing well on the training data but having poor generalization ability for new data. 
-TableII
 
-### Background for large-scale doundation models
-Foundation models were designed to be trained on large-scale datasets, i.e., with parameters over billions to hundreds of billions and were named for the first time recently [184].
-TableIII
-
-![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/timeline.jpg)
-
-## Roadmaps of LSFMs for intelligent manufacturing applications
-TableIV
-
-## Cases of application of LSFMs in intelligent manufacturing
+| No. | Title | Model | Application Areas | Category | Problems solved | Methodology | Link |
+|------|------|------|------|------|------|------|------|
+| 1 | LLMScenario: Large Language Model Driven Scenario Generation | LLM | Autonomous driving data scenario generation | R1C5 | R1C6 | R1C7 | R1C8 |
+| 2 | R2C2 | R2C3 | R2C4 | R2C5 | R2C6 | R2C7 | R2C8 |
+| 3 | R3C2 | R3C3 | R3C4 | R3C5 | R3C6 | R3C7 | R3C8 |
+| 4 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 | R4C8 |
+| 5 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 | R5C8 |
+| 6 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 | R6C8 |
+| 7 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 | R7C8 |
