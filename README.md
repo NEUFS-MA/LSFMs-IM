@@ -14,7 +14,7 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 2 | [_Forward Learning of Large Language Models by Consumer Devices_](https://www.mdpi.com/2079-9292/13/2/402) | LLM | Edge Deployment | Edge Deployment | Backpropagation is computationally intensive | It quantitatively investigated memory usage and computational complexity improvements of PEPITA and MEMPEPITA compared to backpropagation. |
 | 3 | [Harnessing Large Language Models for Cognitive Assistants in Factories](https://dl.acm.org/doi/abs/10.1145/3571884.3604313) | LLM | Staff training and work efficiency improvement | PPC | The efficient knowledge transfer among factory workers grows. | This study investigates the opportunities, risks, and user acceptance of LLM-powered Cognitive Assistants (CAs). |
 | 4 | [Using Large Language Models to Enhance the Reusability of Sensor Data](https://www.mdpi.com/1424-8220/24/2/347) | LLM | IoT, sensor data processing and conversion | Sensor | Data interoperability  | Utilizing LLMs to derive structured formats from sensor data initially presented in non-interoperable formats |
-| 5 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 5 | [A Voice-Controlled Motion Reproduction Using Large Language Models for Polishing Robots](https://ieeexplore.ieee.org/abstract/document/10101966) | LLM | Human-robot interaction | Human-robot interaction | The transfer of skills to robots | Developed a robot system using the motion-copying system and GPT-3 |
 | 6 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
 | 7 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
 | 8 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
