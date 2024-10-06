@@ -15,8 +15,8 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 3 | [Harnessing Large Language Models for Cognitive Assistants in Factories](https://dl.acm.org/doi/abs/10.1145/3571884.3604313) | LLM | Staff training and work efficiency improvement | PPC | The efficient knowledge transfer among factory workers grows. | This study investigates the opportunities, risks, and user acceptance of LLM-powered Cognitive Assistants (CAs). |
 | 4 | [Using Large Language Models to Enhance the Reusability of Sensor Data](https://www.mdpi.com/1424-8220/24/2/347) | LLM | IoT, sensor data processing and conversion | Sensor | Data interoperability  | Utilizing LLMs to derive structured formats from sensor data initially presented in non-interoperable formats |
 | 5 | [A Voice-Controlled Motion Reproduction Using Large Language Models for Polishing Robots](https://ieeexplore.ieee.org/abstract/document/10101966) | LLM | Human-robot interaction | Human-robot interaction | The transfer of skills to robots | Developed a robot system using the motion-copying system and GPT-3 |
-| 6 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 7 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
+| 6 | [Synerise Monad: A Foundation Model for Behavioral Event Data](https://dl.acm.org/doi/abs/10.1145/3539618.3591851) | Custom LLM | User behavior analysis | User behavior analysis | Event-based datalakes grows dynamically each passing hour | Generate Universal Behavior Representation (UBR) (TOKEN that encapsulates user behavior patterns) |
+| 7 | [Leveraging error-assisted fine-tuning large language models for manufacturing excellence](https://www.sciencedirect.com/science/article/abs/pii/S0736584524000140) | LLM | Information retrieval | Code Generation | Domain Knowledge Complexity and Specific Software Paradigms | Error-assisted fine-tuning |
 | 8 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
 | 9 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
 | 10 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
