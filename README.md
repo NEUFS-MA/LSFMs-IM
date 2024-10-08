@@ -25,11 +25,11 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 13 | [A Framework and Operational Procedures for Metaverses-Based Industrial Foundation Models](https://ieeexplore.ieee.org/abstract/document/9989511) | Custom LSFM | Human-machine collaboration, efficient management and control | PPC | Optimize resource management and operational processes | This article proposes a framework and operational procedures for metaverses-based industrial foundation models in cyber–physical–social systems (CPSSs). |
 | 14 | [Embodied intelligence in manufacturing: leveraging large language models for autonomous industrial robotics](https://link.springer.com/article/10.1007/s10845-023-02294-y) | LLM | Robotics | PPC | Matching tasks with process parameters, task planning, adaptability  | A control framework for industrial robots centered on LLMs was proposed. |
 | 15 | [Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models](https://dl.acm.org/doi/abs/10.1145/3644815.3644953) | LLM | Vehicle development | Hazard Analysis & Risk Assessment (HARA) | There are iterative activities that reduce the speed of SafetyOps cycles | This research systematically assess LLMS' potential for application in the field of safety engineering |
-| 16 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 17 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 18 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 19 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 20 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
+| 16 | [ChatTwin: Toward Automated Digital Twin Generation for Data Center via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3600100.3623719) | LLM | Digital twins, scene generation | ICPS | Requires intensive manual processes and domain expertise | leveraging the power of GPT-4 to automate the generation of scene description documents for digital twins |
+| 17 | [Hardware Phi-1.5B: A Large Language Model Encodes Hardware Domain Specific Knowledge](https://ieeexplore.ieee.org/abstract/document/10473927) | LLM | R5C4 | R5C5 | R5C6 | R5C7 |
+| 18 | [DeFACT in ManuVerse for Parallel Manufacturing: Foundation Models and Parallel Workers in Smart Factories](https://ieeexplore.ieee.org/abstract/document/10004441) | LLM | R6C4 | R6C5 | R6C6 | R6C7 |
+| 19 | [ChatGPT-like large-scale foundation models for prognostics and health management: A survey and roadmaps](https://www.sciencedirect.com/science/article/pii/S0951832023007640) | LLM | R7C4 | R7C5 | R7C6 | R7C7 |
+| 20 | [In-House Knowledge Management Using a Large Language Model: Focusing on Technical Specification Documents Review](https://www.mdpi.com/2076-3417/14/5/2096) | LLM | R4C4 | R4C5 | R4C6 | R4C7 |
 | 21 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
 | 22 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
 | 23 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
