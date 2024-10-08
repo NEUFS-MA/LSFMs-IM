@@ -18,7 +18,7 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 6 | [Synerise Monad: A Foundation Model for Behavioral Event Data](https://dl.acm.org/doi/abs/10.1145/3539618.3591851) | Custom LLM | User behavior analysis | User behavior analysis | Event-based datalakes grows dynamically each passing hour | Generate Universal Behavior Representation (UBR) (TOKEN that encapsulates user behavior patterns) |
 | 7 | [Leveraging error-assisted fine-tuning large language models for manufacturing excellence](https://www.sciencedirect.com/science/article/abs/pii/S0736584524000140) | LLM | Information retrieval | Code Generation | Domain Knowledge Complexity and Specific Software Paradigms | Error-assisted fine-tuning |
 | 8 | [Empowering digital twins with large language models for global temporal feature learning](https://www.sciencedirect.com/science/article/abs/pii/S0278612524000372) | LLM | R4C4 | R4C5 | R4C6 | R4C7 |
-| 9 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 9 | [Ontology-integrated tuning of large language model for intelligent maintenance] | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
 | 10 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
 | 11 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
 | 12 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
