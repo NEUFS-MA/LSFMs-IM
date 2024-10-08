@@ -26,20 +26,20 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 14 | [Embodied intelligence in manufacturing: leveraging large language models for autonomous industrial robotics](https://link.springer.com/article/10.1007/s10845-023-02294-y) | LLM | Robotics | PPC | Matching tasks with process parameters, task planning, adaptability  | A control framework for industrial robots centered on LLMs was proposed. |
 | 15 | [Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models](https://dl.acm.org/doi/abs/10.1145/3644815.3644953) | LLM | Vehicle development | Hazard Analysis & Risk Assessment (HARA) | There are iterative activities that reduce the speed of SafetyOps cycles | This research systematically assess LLMS' potential for application in the field of safety engineering |
 | 16 | [ChatTwin: Toward Automated Digital Twin Generation for Data Center via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3600100.3623719) | LLM | Digital twins, scene generation | CPS | Requires intensive manual processes and domain expertise | Leveraging the power of GPT-4 to automate the generation of scene description documents for digital twins |
-| 17 | [Hardware Phi-1.5B: A Large Language Model Encodes Hardware Domain Specific Knowledge](https://ieeexplore.ieee.org/abstract/document/10473927) | LLM | Hardware design | Design | The complexity of hardware-specific issues | The first pre-trained, hardware domain-specific LLM. |
+| 17 | [Hardware Phi-1.5B: A Large Language Model Encodes Hardware Domain Specific Knowledge](https://ieeexplore.ieee.org/abstract/document/10473927) | Pre-trained LLM | Hardware design | Design | The complexity of hardware-specific issues | The first pre-trained, hardware domain-specific LLM. |
 | 18 | [DeFACT in ManuVerse for Parallel Manufacturing: Foundation Models and Parallel Workers in Smart Factories](https://ieeexplore.ieee.org/abstract/document/10004441) | LLM | Task Assignment | PPC, CPS | Uncertainty, diversity, complexity in modeling, long-delayed responses to market changes, and human engineer dependency. | DeFACT: A parallel manufacturing framework where robots, digital workers, and humans interact through decentralized autonomous organizations. |
 | 19 | [ChatGPT-like large-scale foundation models for prognostics and health management: A survey and roadmaps](https://www.sciencedirect.com/science/article/pii/S0951832023007640) | LLM | Review | PHM | The PHM field lacks a consensus on responding to the development of LSFMs. | Expounding of the key components and latest developments of LSFMs in PHM field. |
 | 20 | [In-House Knowledge Management Using a Large Language Model: Focusing on Technical Specification Documents Review](https://www.mdpi.com/2076-3417/14/5/2096) | LLM | In-House Knowledge Management | QM, PPC | The problem of rapid review of technical specification documents. | Automated Technical Specification Review Based on Fine-tuned Language Models. |
-| 21 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 22 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 23 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 24 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 25 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 26 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 27 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 28 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 29 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 30 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
+| 21 | [Combining Ontology and Large Language Models to Identify Recurring Machine Failures in Free-Text Fields](https://ebooks.iospress.nl/doi/10.3233/ATDE240151) | LLM | Computerized Maintenance Management System (CMMS) | PHM | Data in CMMS often comprises unstructured free text, leading to high costs and resource consumption for manual analysis. | Combine NLP, domain-specific ontologies, and LLMs to extract valuable information from free-text entries. |
+| 22 | [Unlocking underrepresented use-cases for large language model-driven human-robot task planning](https://www.tandfonline.com/doi/abs/10.1080/01691864.2024.2366974) | LLM | Human-robot task planning | PPC | The lacks of LLM in mission planning tasks | Experimental analysis demonstrates the shortcomings of LLMs in task planning. |
+| 23 | [LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems](https://chatgpt.com/c/66fa0af2-4154-8004-8005-465300b5fa76) | LLM | Automatic PLC code generation | Code generation | The generated code lacks guaranteed execution, interpretability, and support for some niche programming languages. | Using user feedback and validation tools to guide LLM code generation, along with prompt engineering and LoRA fine-tuning. |
+| 24 | [Leveraging Large Language Models for Preliminary Security Risk Analysis: A Mission-Critical Case Study](https://arxiv.org/abs/2403.15756) | LLM | Preliminary Security Risk Analysis (PSRA) | R4C5 | The extensive expertise and numerous text-related tasks hinder rapid evaluation in critical environments. | Fine-tuning model in PSRA。 |
+| 25 | [Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly]() | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 26 | [Exploring the Potential of Large Language Models in Supply Chain Management: A Study Using Big Data]() | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
+| 27 | [Toward automatic generation of control structures for process flow diagrams with large language models]() | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
+| 28 | [Unleashing the Potential of Large Language Models for Knowledge Augmentation: A Practical Experiment on Incremental Sheet Forming]() | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
+| 29 | [Research on Engineering Management Question-answering System in the Communication Industry Based on Large Language Models and Knowledge Graphs]() | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 30 | [Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis]() | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
 | 31 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
 | 32 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
 | 33 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
