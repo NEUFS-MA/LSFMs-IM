@@ -50,16 +50,16 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 38 | [SAM Era: Can It Segment Any Industrial Surface Defects?](https://cdn.techscience.cn/files/cmc/2024/TSP_CMC-78-3/TSP_CMC_48451/TSP_CMC_48451.pdf) | LVM | Surface defect detection | QM | SAM has insufficient generalization ability on industrial images. | Experiments on three benchmarks compare SAM with 13 state-of-the-art defect detection models. |
 | 39 | [Assessing the Impact of GPT-4 Turbo in Generating Defeaters for Assurance Cases](https://dl.acm.org/doi/abs/10.1145/3650105.3652291) | LLM | Assurance Cases (ACs) | HARA | Identifying defeaters is crucial for enhancing ACs' robustness and confidence. | Using GPT-4 Turbo to automatically identify refutations in ACs. |
 | 40 | [Natural Language Navigation for Robotic Systems: Integrating GPT and Dense Captioning Models with Object Detection in Autonomous Inspections](https://ascelibrary.org/doi/abs/10.1061/9780784485262.099) | LLM | Navigation and fault detection | PHM, Autonomous Vehicles | Conventional UAV systems often require complex control schemes and lack adaptability. | Integrating LLMs with dense captioning enables drones to interpret commands and use an object dictionary from images. |
-| 41 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 42 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 43 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 44 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 45 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 46 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 47 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 48 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 49 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 50 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
+| 41 | [A novel approach to voice of customer extraction using GPT-3.5 Turbo: linking advanced NLP and Lean Six Sigma 4.0]() | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 42 | [Using Large Language Models to Facilitate the Utilization of Specific Application Programming Interfaces in Learning Factories]() | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
+| 43 | [Local large language models to simplify requirement engineering documents in the automotive industry]() | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
+| 44 | [Intelligent smelting process, management system: Efficient and intelligent management strategy by incorporating large language model]() | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
+| 45 | [Performance of ChatGPT on CMRP: Potential for Assisting Maintenance and Reliability Professionals Using Large Language Models]() | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 46 | [HERO-GPT: Zero-Shot Conversational Assistance in Industrial Domains Exploiting Large Language Models]() | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
+| 47 | [A Framework for Categorizing Complaint Text via Large Language Model](https://ieeexplore.ieee.org/abstract/document/10549750) | LLM | Complaint Text Classification Framework (CCF) | SCM | Businesses face a growing volume of cross-industry complaint information. | Leveraging state-of-the-art LLMs to categorize complaint information efficiently. |
+| 48 | [Large Language Models Trained on Equipment Maintenance Text](https://onepetro.org/SPEADIP/proceedings-abstract/23ADIP/2-23ADIP/534517) | LLM | NLP in Equipment Maintenance | PHM | Manually extracting annotated datasets from documents is costly. | Trained a custom tokenizer to recognize domain specific terms. |
+| 49 | [Large Language Model Empowered by Domain-Specific Knowledge Base for Industrial Equipment Operation and Maintenance](https://ieeexplore.ieee.org/abstract/document/10336112) | LLM | Industrial equipment operations and maintenance (IEOM) | PHM | LLMs are severely lacking in expertise in specific areas. | Exploring LLMs empowered by a domain-specific knowledge base (LLM-DSKB). |
+| 50 | [Evaluation of large language models (LLMs) on the mastery of knowledge and skills in the heating, ventilation and air conditioning (HVAC) industry](https://www.sciencedirect.com/science/article/pii/S2666123324000448) | LLM | Heating, ventilation and air conditioning (HVAC) systems | HRI, PPC | It's still unknown whether state-of-the-art LLMs master sufficient knowledge related to HVAC systems. | Allowing LLMs to take the ASHRAE Certified HVAC Designer exam, an authoritative HVAC industry assessment. |
 | 51 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
 | 52 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
 | 53 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
