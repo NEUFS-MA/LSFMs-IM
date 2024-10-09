@@ -65,11 +65,11 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 53 | [An Automated Evaluation Framework for Graph Database Query Generation Leveraging Large Language Models](https://ceur-ws.org/Vol-3707/D2R224_paper_6.pdf) | LLM | Query generation | SCM | Lack of a standardized framework and dataset to evaluate LLM performance. | An automated QG evaluation framework is proposed, featuring three key metrics: gold query accuracy, execution accuracy, and execution rate. |
 | 54 | [Towards Industrial Foundation Models: Framework, Key Issues and Potential Applications](https://ieeexplore.ieee.org/abstract/document/10580089/) | LSFMs | Review | Industrial domain | The Industrial Foundation Model (IFM) is almost unexplored. | Introduced the concept and construction paradigm of IFM, and proposed a 5-dimensional overall framework for IFM. |
 | 55 | [Automated Solution Development for Smart Grids: Tapping the Power of Large Language Models](https://ieeexplore.ieee.org/abstract/document/10171681) | LLM | Smart Grids | PPC, PHM | Fully automate the entire software development process. | Using data analysis models and self-healing technology for automated smart grid management. |
-| 56 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 57 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 58 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 59 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 60 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
+| 56 | [Empirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems](https://www.sciencedirect.com/science/article/abs/pii/S095183202400454X) | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
+| 57 | [Leveraging Large Language Models for the Automated Documentation of Hardware Designs](https://ieeexplore.ieee.org/abstract/document/10577923) | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 58 | [Design of Photovoltaic Cleaning Robots Assisted by Large Language Models](https://ieeexplore.ieee.org/abstract/document/10494286) | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
+| 59 | [The Heuristic Design Innovation Approach for Data-Integrated Large Language Model](https://link.springer.com/chapter/10.1007/978-3-031-60615-1_12) | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
+| 60 | [Advancing Human-Robot Interaction Using AI – A Large Language Model (LLM) Approach](https://link.springer.com/chapter/10.1007/978-3-031-57496-2_12) | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
 | 61 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
 | 62 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
 | 63 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
