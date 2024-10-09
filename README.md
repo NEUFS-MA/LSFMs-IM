@@ -1,4 +1,4 @@
-# LSFM-IM
+ # LSFM-IM
 A collection of papers and resources related to LSFMs in Intelligent Manufacturing Applications.
 
 The organization of papers refers to our survey ["Large Scale Foundation Models for Intelligent Manufacturing Applications: A Survey"](https://arxiv.org/abs/2312.06718)
@@ -65,12 +65,12 @@ The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportu
 | 53 | [An Automated Evaluation Framework for Graph Database Query Generation Leveraging Large Language Models](https://ceur-ws.org/Vol-3707/D2R224_paper_6.pdf) | LLM | Query generation | SCM | Lack of a standardized framework and dataset to evaluate LLM performance. | An automated QG evaluation framework is proposed, featuring three key metrics: gold query accuracy, execution accuracy, and execution rate. |
 | 54 | [Towards Industrial Foundation Models: Framework, Key Issues and Potential Applications](https://ieeexplore.ieee.org/abstract/document/10580089/) | LSFMs | Review | Industrial domain | The Industrial Foundation Model (IFM) is almost unexplored. | Introduced the concept and construction paradigm of IFM, and proposed a 5-dimensional overall framework for IFM. |
 | 55 | [Automated Solution Development for Smart Grids: Tapping the Power of Large Language Models](https://ieeexplore.ieee.org/abstract/document/10171681) | LLM | Smart Grids | PPC, PHM | Fully automate the entire software development process. | Using data analysis models and self-healing technology for automated smart grid management. |
-| 56 | [Empirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems](https://www.sciencedirect.com/science/article/abs/pii/S095183202400454X) | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 57 | [Leveraging Large Language Models for the Automated Documentation of Hardware Designs](https://ieeexplore.ieee.org/abstract/document/10577923) | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
-| 58 | [Design of Photovoltaic Cleaning Robots Assisted by Large Language Models](https://ieeexplore.ieee.org/abstract/document/10494286) | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
-| 59 | [The Heuristic Design Innovation Approach for Data-Integrated Large Language Model](https://link.springer.com/chapter/10.1007/978-3-031-60615-1_12) | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
-| 60 | [Advancing Human-Robot Interaction Using AI – A Large Language Model (LLM) Approach](https://link.springer.com/chapter/10.1007/978-3-031-57496-2_12) | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
-| 61 | R5C2 | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
+| 56 | [Empirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems](https://www.sciencedirect.com/science/article/abs/pii/S095183202400454X) | LLM | Fault diagnosis | PHM | Increasing complexity and interconnectivity of the modern industrial systems. | Studied the effectiveness of fine-tuning LLM in achieving efficient system fault diagnosis. |
+| 57 | [Leveraging Large Language Models for the Automated Documentation of Hardware Designs](https://ieeexplore.ieee.org/abstract/document/10577923) | LLM | Electronic Design Automation (EDA) | Design | Reduce the document burden on engineers. | Using LLMs to create human-readable design documentation from formal hardware models. |
+| 58 | [Design of Photovoltaic Cleaning Robots Assisted by Large Language Models](https://ieeexplore.ieee.org/abstract/document/10494286) | LLM | photovoltaic (PV) cleaning robot | Design | Improving robot design | Utilize LLMs for data processing and analysis to better meet requirements. |
+| 59 | [The Heuristic Design Innovation Approach for Data-Integrated Large Language Model](https://link.springer.com/chapter/10.1007/978-3-031-60615-1_12) | LLM | Industrial design | Design | LLMs in specific domains falls considerably short of expectations. | DIABot offers design guidance through data retrieval integration. |
+| 60 | [Advancing Human-Robot Interaction Using AI – A Large Language Model (LLM) Approach](https://link.springer.com/chapter/10.1007/978-3-031-57496-2_12) | LLM | Robots work alongside humans | HRI | Improve productivity, efficiency, and safety in the production process. | Enabling humans to communicate in natural language, thereby advancing HRI during the execution and programming phases. |
+| 61 | []() | R5C3 | R5C4 | R5C5 | R5C6 | R5C7 |
 | 62 | R6C2 | R6C3 | R6C4 | R6C5 | R6C6 | R6C7 |
 | 63 | R7C2 | R7C3 | R7C4 | R7C5 | R7C6 | R7C7 |
 | 64 | R4C2 | R4C3 | R4C4 | R4C5 | R4C6 | R4C7 |
