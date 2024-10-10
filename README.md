@@ -5,7 +5,7 @@ The organization of papers refers to our survey ["Large Scale Foundation Models 
 
 The emergence of LSFMs has brought new opportunities to the field of intelligent manufacturing, shifting the paradigm from single-task, single-mode, limited data models based on deep learning to encompassing multiple tasks, multiple modes, and pre-training on large-scale datasets.
 
-![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/evolution.png)
+![](assets/fig_overview.jpg)
 
 ## Literature Statistics
 
