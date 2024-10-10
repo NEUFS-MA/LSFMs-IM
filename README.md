@@ -1,11 +1,15 @@
- # LSFM-IM
-A collection of papers and resources related to LSFMs in Intelligent Manufacturing Applications.
+# LSFM-IM
+A collection of papers and resources related to Large-Scale Foundational Models (LSFMs) in Intelligent Manufacturing Applications.
 
 The organization of papers refers to our survey ["Large Scale Foundation Models for Intelligent Manufacturing Applications: A Survey"](https://arxiv.org/abs/2312.06718)
 
-The emergence of Large-Scale Foundational Models (LSFMs) has brought new opportunities to the field of intelligent manufacturing, shifting the paradigm from single-task, single-mode, limited data models based on deep learning to encompassing multiple tasks, multiple modes, and pre-training on large-scale datasets.
+The emergence of LSFMs has brought new opportunities to the field of intelligent manufacturing, shifting the paradigm from single-task, single-mode, limited data models based on deep learning to encompassing multiple tasks, multiple modes, and pre-training on large-scale datasets.
 
 ![](https://github.com/NEUFS-IndustrialAI/LSFM-IM/blob/main/assets/evolution.png)
+
+## Literature Statistics
+
+The literature collection is sourced from _Web of Science_ and _Scopus_, and the list of references is as follows:
 
 
 | No. | Title | Model | Application Areas | Category | Problems solved | Methodology |
