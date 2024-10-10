@@ -9,8 +9,9 @@ The emergence of LSFMs has brought new opportunities to the field of intelligent
 
 ## Literature Statistics
 
-The literature collection is sourced from _Web of Science_ and _Scopus_, and the list of references is as follows:
+The literature collection is sourced from _Web of Science_ and [_Scopus_](scopus.csv), and the list of references is as follows:
 
+![](assets/keywords_01.png)
 
 | No. | Title | Model | Application Areas | Category | Problems solved | Methodology |
 |------|------|------|------|------|------|------|
