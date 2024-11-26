@@ -96,3 +96,31 @@ The literature collection is sourced from _Web of Science_ and [_Scopus_](scopus
 | 79 | [Natural Language Processing for Supply Chain with Chat GPT](https://ieeexplore.ieee.org/abstract/document/10452639) | LLM | Order document enquiry | SCM | The component specifications in the document were unstructured and manually reviewed by employees. | Built a fine-tuned GPT-3 model for keyword extraction. |
 | 80 | [Workpiece Segmentation Based on Improved YOLOv5 and SAM](https://ieeexplore.ieee.org/abstract/document/10505346) | LVM | Workpiece Segmentation | QM | Traditional image segmentation algorithms, based on manually designed features, yield poor performance. | YOLOv5 enhances feature extraction and works with the SAM model, using binocular vision to segment the topmost workpiece. |
 | 81 | [Digitization of the enterprise - prospects for process automation with using RPA and GPT integration](https://www.sciencedirect.com/science/article/pii/S187705092301476X) | LLM | Review | PPC | identify potential digitization directions for process automation using the integration of RPA and GPT technologies. | Digitalization and process automation concepts are reviewed, terminology clarified, and ChatGPT-RPA integration explored via a green energy case study. |
+| 82 | [Empirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems](https://www.sciencedirect.com/science/article/abs/pii/S095183202400454X?via%3Dihub) | LLM | Fault diagnosis | PHM | Investigating the efficacy of fine-tuning LLMs for realizing efficient system fault diagnosis | The experiments conducted in this study involve both open-source and closed-source models, and utilize a simulation and a real fault diagnosis dataset. |
+| 82 | []() | | | | | |
+| 82 | []() | | | | | |
+| 82 | []() | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
+| 82 | | | | | | |
