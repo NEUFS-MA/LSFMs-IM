@@ -101,26 +101,26 @@ The literature collection is sourced from _Web of Science_ and [_Scopus_](scopus
 | 84 | [Generating the assembly instructions of helicopter subassemblies using the hierarchical pruning strategy and large language model](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24001663?via%3Dihub) | LLM | Assembly instruction generation | Instruction Generation | Process designers need to spend lots of time thinking and authoring assembly instructions. | Integrating knowledge graphs and LLMs enables efficient automatic generation of assembly instructions. |
 | 85 | [Cognitive digital twin-based Internet of Robotic Things, multi-sensory extended reality and simulation modeling technologies, and generative artificial intelligence and cyber–physical manufacturing systems in the immersive industrial metaverse](https://journals.economic-research.pl/eq/article/view/3131) | AIGC | Review | CPS | Low production efficiency, suboptimal resource scheduling, uncoordinated task execution, etc. | Explored the application of generative AI and cyber physical manufacturing systems in the industrial metaverse. |
 | 86 | [Enhancing metal additive manufacturing training with the advanced vision language model: A pathway to immersive augmented reality training for non-experts](https://www.sciencedirect.com/science/article/pii/S0278612524001341?pes=vor&utm_source=scopus&getft_integrator=scopus) | VLM | Training system for metal printer | Vocational training | Recognition accuracy, operational understanding, and human–machine interaction | VLM with AR within the digital twins framework. |
-| 87 | [A task-centric knowledge graph construction method based on multi-modal representation learning for industrial maintenance automation](https://www.scopus.com/record/display.uri?eid=2-s2.0-85197690409&origin=resultslist&sort=plfdt-f&listId=64876114&listTypeValue=Docs&src=s&nlo=&nlr=&nls=&imp=t&sid=b591038ae4d422855e3b92a943472788&sot=sl&sdt=sisr&sl=0&ref=%28A+task-centric+knowledge+graph+construction+method+based+on+multi-modal+representation+learning+for+industrial+maintenance+automation%29&relpos=0&citeCnt=3&searchTerm=) | | | | | |
-| 88 | [A digital twin-based assembly model for multi-source variation fusion on vision transformer](https://www.sciencedirect.com/science/article/pii/S0278612524001742?via%3Dihub) | | | | | |
-| 89 | []() | | | | | |
-| 90 | []() | | | | | |
-| 91 | []() | | | | | |
-| 92 | []() | | | | | |
-| 93 | []() | | | | | |
-| 94 | []() | | | | | |
-| 95 | []() | | | | | |
-| 96 | []() | | | | | |
-| 97 | []() | | | | | |
-| 98 | []() | | | | | |
-| 99 | []() | | | | | |
-| 100 | []() | | | | | |
-| 101 | []() | | | | | |
-| 102 | []() | | | | | |
-| 103 | []() | | | | | |
-| 104 | []() | | | | | |
-| 105 | []() | | | | | |
-| 106 | []() | | | | | |
-| 107 | []() | | | | | |
-| 108 | []() | | | | | |
-| 109 | []() | | | | | |
+| 87 | [A task-centric knowledge graph construction method based on multi-modal representation learning for industrial maintenance automation](https://onlinelibrary.wiley.com/doi/pdf/10.1002/eng2.12952) | Knowledge Graph | Industrial maintenance automation | PHM, CPS | Extracting task-centric maintenance knowledge from unstructured PDF manuals | Construct a task-centric knowledge graph using a heterogeneous graph-based method enhanced with visual and spatial information. |
+| 88 | [A digital twin-based assembly model for multi-source variation fusion on vision transformer](https://www.sciencedirect.com/science/article/pii/S0278612524001742?via%3Dihub) | LVM | Mechanical product assembly | QM | High computational cost and inefficiency in simulating assembly performance under complex multi-source factors | Propose a digital twin-based data-driven model (DTA-VIT) that fuses multi-source assembly data using a Vision Transformer to predict critical assembly performance. |
+| 89 | [GPT-based equipment remaining useful life prediction](https://dl.acm.org/doi/10.1145/3674399.3674456) | | | | | |
+| 90 | [Generative AI and DT integrated intelligent process planning: a conceptual framework](https://link.springer.com/article/10.1007/s00170-024-13861-9) | | | | | |
+| 91 | [Leveraging Large Language Models for Sensor Data Retrieval](https://www.mdpi.com/2076-3417/14/6/2506) | | | | | |
+| 92 | [Sora for Senarios Engineering of Intelligent Vehicles: V&V, C&C, and Beyonds](https://ieeexplore.ieee.org/document/10486832) | | | | | |
+| 93 | [Industrial Large Model: Toward A Generative AI for Industry](https://ieeexplore.ieee.org/document/10667177) | | | | | |
+| 94 | [Autonomous Human-Robot Collaborative Assembly Method Driven by the Fusion of Large Language Model and Digital Twin](https://iopscience.iop.org/article/10.1088/1742-6596/2832/1/012004) | | | | | |
+| 95 | [Exploring the Capabilities of Large Language Models for the Generation of Safety Cases: The Case of GPT-4](https://ieeexplore.ieee.org/document/10628935) | | | | | |
+| 96 | [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://ieeexplore.ieee.org/document/10711843) | | | | | |
+| 97 | [Boosting Productivity of Hardware Documentation Using Large Language Models](https://ieeexplore.ieee.org/document/10691698) | | | | | |
+| 98 | [Engineering Safety Requirements for Autonomous Driving with Large Language Models](https://ieeexplore.ieee.org/document/10628478) | | | | | |
+| 99 | [Generating Troubleshooting Trees for Industrial Equipment using Large Language Models (LLM)](https://ieeexplore.ieee.org/document/10626823) | | | | | |
+| 100 | [LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins](https://ieeexplore.ieee.org/document/10710900) | | | | | |
+| 101 | [Empowering Supply chains Resilience: LLMs-Powered BN for Proactive Supply Chain Risk Identification](https://opus.lib.uts.edu.au/bitstream/10453/183533/2/D2R224_paper_2.pdf#:~:text=We%20introduce%20a%20novel%20methodology%2C%20leveraging%20the%20expertise,of%20detected%20events%20to%20the%20targeted%20SC%20risks.) | | | | | |
+| 102 | [LLM-Enabled Cyber-Physical Systems: Survey, Research Opportunities, and Challenges](https://ieeexplore.ieee.org/document/10590269) | | | | | |
+| 103 | [Large Language Model for Humanoid Cognition in Proactive Human-Robot Collaboration](https://ieeexplore.ieee.org/document/10711379) | | | | | |
+| 104 | [IoT Sensor Selection in Cyber-Physical Systems: Leveraging Large Language Models as Recommender Systems](https://ieeexplore.ieee.org/document/10708357) | | | | | |
+| 105 | [Large Language Model-Enabled Multi-Agent Manufacturing Systems](https://ieeexplore.ieee.org/document/10711432) | | | | | |
+| 106 | [Improving Industrial Question Answering Chatbots with Domain-Specific LLMs Fine-Tuning](https://ieeexplore.ieee.org/document/10704843) | | | | | |
+| 107 | [Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach](https://ieeexplore.ieee.org/document/10717431) | | | | | |
+| 108 | [New Control Paradigm for Industry 5.0: From Big Models to Foundation Control and Management](https://ieeexplore.ieee.org/document/10194243) | | | | | |
+| 109 | [Large language models in requirements engineering for digital twins](https://ceur-ws.org/Vol-3645/dte1.pdf) | | | | | |
